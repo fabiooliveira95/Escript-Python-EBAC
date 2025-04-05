@@ -15,16 +15,18 @@ Este projeto realiza uma análise exploratória dos dados do **Sistema de Inform
 
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3.x
-- Pandas
-- Matplotlib
-- Streamlit
+- Python 3
+- jupyter notebook
+- Bibliotecas:
+- ``Pandas``
+- ``Matplotlib``
+- ``Streamlit``
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-```
+```texto
 Escript-Python-EBAC/
 ├── sinasc_RO_2019.csv           # Base de dados
 ├── analise_exploratoria.py      # Geração de gráficos com Matplotlib
@@ -38,12 +40,12 @@ Escript-Python-EBAC/
 
 ### 1. Executar a análise localmente:
 ```bash
-python analise_exploratoria.py
+   python analise_exploratoria.py
 ```
 
 ### 2. Executar a aplicação interativa:
 ```bash
-streamlit run streamlit_app.py
+   streamlit run streamlit_app.py
 ```
 
 ---

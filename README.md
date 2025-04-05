@@ -48,5 +48,6 @@ Aplicação Web (Streamlit):
    📬 Contato
 
 Fábio Oliveira
+
 🔗 https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/
 📧 fabiooliveira0067@gmail.com 
